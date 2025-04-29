@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe Game with Unbeatable Minimax AI (Python)
+# 🎮 Tic-Tac-Toe Game with Minimax AI (Python)
 
 This is a command-line Tic-Tac-Toe game implemented in Python featuring an **unbeatable AI opponent** powered by the **Minimax algorithm**. Whether you're playing for fun or want to learn about AI decision-making in games, this project is a great introduction to game logic and algorithms.
 
