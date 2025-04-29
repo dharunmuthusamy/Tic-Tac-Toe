@@ -1,6 +1,3 @@
-Here's your updated and corrected `README.md` content, ready to copy and paste into your GitHub repo:
-
-```markdown
 # 🎮 Tic-Tac-Toe Game with Unbeatable Minimax AI (Python)
 
 This is a command-line Tic-Tac-Toe game implemented in Python featuring an **unbeatable AI opponent** powered by the **Minimax algorithm**. Whether you're playing for fun or want to learn about AI decision-making in games, this project is a great introduction to game logic and algorithms.
@@ -45,7 +42,7 @@ tic_tac_toe_minimax_ai/
 ## 📚 Learning Resources
 
 - [Minimax Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Minimax)
-- [Build an Unbeatable Tic-Tac-Toe AI - Neural nine]([https://www.freecodecamp.org/news/](https://www.youtube.com/watch?v=LbTu0rwikwg&t=2432s))
+- [Build an Unbeatable Tic-Tac-Toe AI - Neural nine](https://www.freecodecamp.org/news/](https://www.youtube.com/watch?v=LbTu0rwikwg&t=2432s))
 
 ---
 
